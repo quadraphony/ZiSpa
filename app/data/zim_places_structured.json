@@ -1,0 +1,408 @@
+{
+    "10": {
+        "ProvinceName": "Bulawayo",
+        "Districts": [
+            {
+                "DistrictName": "Bulawayo",
+                "ProvincePCode": "10"
+            }
+        ]
+    },
+    "11": {
+        "ProvinceName": "Manicaland",
+        "Districts": [
+            {
+                "DistrictName": "Buhera",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Chimanimani",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Chipinge",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Makoni",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Mutare",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Mutasa",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Nyanga",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Mutare Urban",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Rusape",
+                "ProvincePCode": "11"
+            },
+            {
+                "DistrictName": "Chipinge Urban",
+                "ProvincePCode": "11"
+            }
+        ]
+    },
+    "12": {
+        "ProvinceName": "Mashonaland Central",
+        "Districts": [
+            {
+                "DistrictName": "Bindura",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Centenary",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Guruve",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Mazowe",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Mount Darwin",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Rushinga",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Shamva",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Mbire",
+                "ProvincePCode": "12"
+            },
+            {
+                "DistrictName": "Bindura Urban",
+                "ProvincePCode": "12"
+            }
+        ]
+    },
+    "13": {
+        "ProvinceName": "Mashonaland East",
+        "Districts": [
+            {
+                "DistrictName": "Chikomba",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Goromonzi",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Hwedza",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Marondera",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Mudzi",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Murehwa",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Mutoko",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Seke",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Uzumba Maramba Pfungwe",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Marondera Urban",
+                "ProvincePCode": "13"
+            },
+            {
+                "DistrictName": "Ruwa",
+                "ProvincePCode": "13"
+            }
+        ]
+    },
+    "14": {
+        "ProvinceName": "Mashonaland West",
+        "Districts": [
+            {
+                "DistrictName": "Chegutu",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Hurungwe",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Kadoma",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Kariba",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Makonde",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Zvimba",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Chinhoyi",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Chegutu Urban",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Kariba Urban",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Norton",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Karoi",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Mhondoro-Ngezi",
+                "ProvincePCode": "14"
+            },
+            {
+                "DistrictName": "Sanyati",
+                "ProvincePCode": "14"
+            }
+        ]
+    },
+    "15": {
+        "ProvinceName": "Matabeleland North",
+        "Districts": [
+            {
+                "DistrictName": "Binga",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Bubi",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Hwange",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Lupane",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Nkayi",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Tsholotsho",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Umguza",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Hwange Urban",
+                "ProvincePCode": "15"
+            },
+            {
+                "DistrictName": "Victoria Falls",
+                "ProvincePCode": "15"
+            }
+        ]
+    },
+    "16": {
+        "ProvinceName": "Matabeleland South",
+        "Districts": [
+            {
+                "DistrictName": "Beitbridge",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Bulilima",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Mangwe",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Gwanda",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Insiza",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Matobo",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Umzingwane",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Gwanda Urban",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Beitbridge Urban",
+                "ProvincePCode": "16"
+            },
+            {
+                "DistrictName": "Plumtree",
+                "ProvincePCode": "16"
+            }
+        ]
+    },
+    "17": {
+        "ProvinceName": "Midlands",
+        "Districts": [
+            {
+                "DistrictName": "Chirumhanzu",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Gokwe North",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Gokwe South",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Gweru",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Kwekwe",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Mberengwa",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Shurugwi",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Zvishavane",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Gweru Urban",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Kwekwe Urban",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Redcliff",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Zvishavane Urban",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Shurugwi Urban",
+                "ProvincePCode": "17"
+            },
+            {
+                "DistrictName": "Gokwe South Urban",
+                "ProvincePCode": "17"
+            }
+        ]
+    },
+    "18": {
+        "ProvinceName": "Masvingo",
+        "Districts": [
+            {
+                "DistrictName": "Bikita",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Chiredzi",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Chivi",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Gutu",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Masvingo",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Mwenezi",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Zaka",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Masvingo Urban",
+                "ProvincePCode": "18"
+            },
+            {
+                "DistrictName": "Chiredzi Urban",
+                "ProvincePCode": "18"
+            }
+        ]
+    },
+    "19": {
+        "ProvinceName": "Harare",
+        "Districts": [
+            {
+                "DistrictName": "Harare",
+                "ProvincePCode": "19"
+            },
+            {
+                "DistrictName": "Chitungwiza",
+                "ProvincePCode": "19"
+            },
+            {
+                "DistrictName": "Epworth",
+                "ProvincePCode": "19"
+            }
+        ]
+    }
+}
